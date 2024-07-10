@@ -1,7 +1,7 @@
 # Software Defined Radio Using MATLAB & Simulink and the RTL-SDR
 
 <p align="center">
-    <img height="500pt" src="https://github.com/tapyu/stewart-rtl-sdr-using-matlab/assets/22801918/0b0832a5-8253-408a-9cf9-14be23d80098">
+    <img height="500pt" src="https://github.com/tapyu/stewart-rtl-sdr-using-matlab/assets/22801918/f7ef7d23-cdff-4d37-9f97-188935cefd42">
 </p>
 
 This repository contains the [oficial] Simulink and Matlab code of the book "Software Defined Radio Using MATLAB & Simulink and the RTL-SDR", by Stewart et. at.
