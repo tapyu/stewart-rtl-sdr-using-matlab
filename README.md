@@ -4,7 +4,7 @@
     <img height="500pt" src="https://github.com/tapyu/stewart-rtl-sdr-using-matlab/assets/22801918/f7ef7d23-cdff-4d37-9f97-188935cefd42">
 </p>
 
-This repository contains the [oficial] Simulink and Matlab code of the book "Software Defined Radio Using MATLAB & Simulink and the RTL-SDR", by Stewart et. at.
+This repository contains the [official] Simulink and Matlab code of the book "Software Defined Radio Using MATLAB & Simulink and the RTL-SDR", by Stewart et. at.
 
 ---
 ## `git-anex`
@@ -42,4 +42,4 @@ The following files
 
 are greater than 50MB, and are stored in my cloud repository via [`git-annex`](https://gist.github.com/tapyu/0427afb25df969c1972942d945284ba2#git-annex). You can still clone this repo and use the material, but you can't download these files. Instead, use the [official] link to download them.
 
-[oficial]: https://www.mathworks.com/campaigns/offers/download-rtl-sdr-ebook.html
+[official]: https://www.mathworks.com/campaigns/offers/download-rtl-sdr-ebook.html
